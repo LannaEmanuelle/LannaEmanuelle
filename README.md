@@ -1,9 +1,6 @@
 ### Hi there 👋
+<a href="google.com"><img src="https://cdn.discordapp.com/attachments/1151281465296949308/1199901844869226516/9k.png?ex=65c43aac&is=65b1c5ac&hm=67150c3ada35d949739384cc99dc4ac970341d64acc435239d56005e51571bfa&" /></a>
 
-<!--
-**LannaEmanuelle/LannaEmanuelle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +10,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
